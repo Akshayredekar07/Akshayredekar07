@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I am passionate about DSA, Data Science, Machine Learning, Deep Learning, Natural Language Processing, Artificial Intelligence and Data Engineering. ✍️
+I am passionate about DSA, Data Science, Machine Learning, Deep Learning, Natural Language Processing, Artificial Intelligence. ✍️
 
 As a Computer Engineering student, I'm continually expanding my knowledge and sharpening my skills in this vibrant field. 🚀💡
 
