@@ -7,7 +7,7 @@ As a Computer Engineering student, I'm continually expanding my knowledge and sh
 ## 📫 Reach Out to Me:
 
 - LinkedIn: https://www.linkedin.com/in/akshayredekar07
-- Twitter: https://twitter.com/akshayredekar_
+- Twitter: https://twitter.com/akshayredekar07
 - Email: akshayredekar04@gmail.com
   
 ## 🔧 Technologies & Tools
