@@ -7,14 +7,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-akshayredekar04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akshayredekar04@gmail.com)](mailto:akshayredekar04@gmail.com)
 ---
 
-### 💫 About Me:
+### 💫 About Me: 
 - 🌱 I’m currently working on Deep Learning Project
 - 🌟 Curious about Linux, MongoDB, Data Science? Let’s dive into discussions!
 - 💬 Ask me about anything and everything!
 - 🎓 As a Computer Engineering student,I’m passionate about continuous learning and self-improvement!
 - ⚡ Fun fact: I love meeting new people and eating food!
-
-### 🔧 Technologies & Tools
 
 ### 🔧 Technologies & Tools
 
@@ -47,4 +45,4 @@
 </p>
 
 
-**_Let's connect and collaborate on exciting projects!_**
+**🕸️ Let's connect and collaborate on exciting projects! 🚀💡**
