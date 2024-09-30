@@ -1,16 +1,20 @@
-# 💫 About Me:
+## Akshay Redekar 🥷
 
-I am passionate about DSA, Data Science, Machine Learning, Deep Learning, Natural Language Processing, Artificial Intelligence. ✍️
+[![GitHub followers](https://img.shields.io/github/followers/Akshayredekar07?label=Follow&style=social)](https://github.com/Akshayredekar07/?tab=follow)
+[![Linkedin Badge](https://img.shields.io/badge/-akshayredekar07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshayredekar07/)](https://www.linkedin.com/in/akshayredekar07/) 
+[![Medium Badge](https://img.shields.io/badge/-@akshayredekar74-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@akshayredekar74)](https://medium.com/@akshayredekar74)
+[![Twitter Badge](https://img.shields.io/badge/-@akshayredekar07-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/akshayredekar07)](https://twitter.com/akshayredekar07) 
+[![Gmail Badge](https://img.shields.io/badge/-akshayredekar04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akshayredekar04@gmail.com)](mailto:akshayredekar04@gmail.com)
+---
 
-As a Computer Engineering student, I'm continually expanding my knowledge and sharpening my skills in this vibrant field. 🚀💡
+### 💫 About Me:
+- 🌱 I’m currently working on Deep Learning Project
+- 🌟 Curious about Linux, MongoDB, Data Science? Let’s dive into discussions!
+- 💬 Ask me about anything and everything!
+- 🎓 As a Computer Engineering student,I’m passionate about continuous learning and self-improvement!
+- ⚡ Fun fact: I love meeting new people and eating food!
 
-## 📫 Reach Out to Me:
-
-- LinkedIn: https://www.linkedin.com/in/akshayredekar07
-- Twitter: https://twitter.com/akshayredekar07
-- Email: akshayredekar04@gmail.com
-  
-## 🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -51,4 +55,11 @@ As a Computer Engineering student, I'm continually expanding my knowledge and sh
 </a>
 </p>
 
-Let's connect and collaborate on exciting projects!
+<!-- Github stats -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=akshayredekar07&show_icons=true&locale=en&theme=light" alt="akshayredekar07" width="390" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshayredekar07&theme=light" alt="akshayredekar07" width="390" height="150" />
+</p>
+
+
+**_Let's connect and collaborate on exciting projects!_**
