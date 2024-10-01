@@ -1,10 +1,5 @@
 # Akshay Redekar 🥷
-
-[![GitHub followers](https://img.shields.io/github/followers/Akshayredekar07?label=Follow&style=social)](https://github.com/Akshayredekar07/?tab=follow)
-[![Linkedin Badge](https://img.shields.io/badge/-akshayredekar07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshayredekar07/)](https://www.linkedin.com/in/akshayredekar07/) 
-[![Medium Badge](https://img.shields.io/badge/-@akshayredekar74-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@akshayredekar74)](https://medium.com/@akshayredekar74)
-[![Twitter Badge](https://img.shields.io/badge/-@akshayredekar07-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/akshayredekar07)](https://twitter.com/akshayredekar07) 
-[![Gmail Badge](https://img.shields.io/badge/-akshayredekar04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akshayredekar04@gmail.com)](mailto:akshayredekar04@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/Akshayredekar07?label=Follow&style=social)](https://github.com/Akshayredekar07/?tab=follow) [![Linkedin Badge](https://img.shields.io/badge/-akshayredekar07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshayredekar07/)](https://www.linkedin.com/in/akshayredekar07/) [![Medium Badge](https://img.shields.io/badge/-@akshayredekar74-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@akshayredekar74)](https://medium.com/@akshayredekar74) [![X Badge](https://img.shields.io/badge/-@akshayredekar07-1ca0f1?style=flat-square&labelColor=f5f8fa&logo=x&logoColor=1ca0f1)](https://twitter.com/akshayredekar07) [![Gmail Badge](https://img.shields.io/badge/-akshayredekar04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akshayredekar04@gmail.com)](mailto:akshayredekar04@gmail.com)
 ---
 
 ### 💫 About Me: 
