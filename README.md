@@ -35,8 +35,8 @@
 
 <!-- Github stats -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=akshayredekar07&show_icons=true&locale=en&theme=light" alt="akshayredekar07" width="390" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshayredekar07&theme=light" alt="akshayredekar07" width="390" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akshayredekar07&show_icons=true&locale=en&theme=dark" alt="akshayredekar07" width="390" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshayredekar07&theme=dark" alt="akshayredekar07" width="390" height="150" />
 </p>
 
 **🕸️ Let's connect and collaborate on exciting projects! 🚀💡**
