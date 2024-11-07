@@ -35,8 +35,12 @@
 
 <!-- Github stats -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=akshayredekar07&show_icons=true&locale=en&theme=dark" alt="akshayredekar07" width="390" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshayredekar07&theme=dark" alt="akshayredekar07" width="390" height="150" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=akshayredekar07&show_icons=true&locale=en&theme=dark" alt="akshayredekar07" width="390" height="150" />
+   -->
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshayredekar07&theme=dark" alt="akshayredekar07" width="390" height="150" /> -->
 </p>
 
+![](https://github-contributor-stats.vercel.app/api?username=Akshayredekar07&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
 **🕸️ Let's connect and collaborate on exciting projects! 🚀💡**
