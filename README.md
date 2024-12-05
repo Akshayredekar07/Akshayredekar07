@@ -21,7 +21,7 @@
 - 🌱 Data Scientist: Developing AI-driven solutions to tackle real-world problems and create scalable models.
 - 🌟 Current Focus: Working on a Multimodal Deepfake Detection project, combining AI and computer vision to identify fake content across images, videos, and audio.
 - 🎓 As a Computer Engineering student,I’m passionate about continuous learning and self-improvement!
----
+
 
 ### 🔧 Technologies & Tools
 
@@ -70,8 +70,8 @@
   </a>
 </p>
 
-
 ---
+
 
 ###  **GitHub Stats**
 
@@ -81,16 +81,7 @@
 </a>
 </div>
 
-
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=akshayredekar07&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-
-
-
+---
 
 **🕸️ Let's connect and collaborate on exciting projects! 🚀💡**
 
