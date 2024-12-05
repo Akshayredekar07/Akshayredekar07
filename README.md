@@ -81,6 +81,13 @@
 </a>
 </div>
 
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=akshayredekar07&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+
 ---
 
 **🕸️ Let's connect and collaborate on exciting projects! 🚀💡**
