@@ -18,9 +18,9 @@
 ---
 
 ### 💫 About Me: 
-- 🌱 Data Scientist: Developing AI-driven solutions to tackle real-world problems and create scalable models.
-- 🌟 Current Focus: Working on a Multimodal Deepfake Detection project, combining AI and computer vision to identify fake content across images, videos, and audio.
-- 🎓 As a Computer Engineering student,I’m passionate about continuous learning and self-improvement!
+- Data Scientist: Developing AI-driven solutions to tackle real-world problems and create scalable models.
+- Current Focus: Working on a Multimodal Deepfake Detection project, combining AI and computer vision to identify fake content across images, videos, and audio.
+- As a Computer Engineering student,I’m passionate about continuous learning and self-improvement!
 
 
 ### 🔧 Technologies & Tools
