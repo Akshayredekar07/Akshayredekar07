@@ -1,95 +1,75 @@
-![Profile Banner](name.png)
+![Banner](banner.svg)
 
+## 🌟 About Me  
+
+Hi there! 👋 I’m **Akshay Redekar**, a **Machine Learning Engineer and AI Researcher** passionate about building intelligent solutions for real-world automation.  
+### 💡 Core Expertise:  
+- **Machine Learning**: Crafting predictive algorithms and utilizing deep learning for innovative automation.  
+- **Data Science**: Interpreting complex datasets to derive meaningful insights.  
+- **Artificial Intelligence**: Designing smart systems to address practical challenges.  
+- **Cloud Infrastructure**: Building scalable applications while optimizing resource utilization.  
+
+### 🎯 Current Focus:  
+Currently, I am working on **multi-modal deepfake detection**, leveraging **computer vision, NLP, and audio analysis** to enhance AI-driven security.  
+
+### 🌱 Forever Learning:  
+Continuously exploring **advanced deep learning architectures, cloud computing (GCP), and AI-driven automation** to push the boundaries of what's possible.  
+
+### 💬 Let’s Connect:  
+If you're interested in **AI research, security applications, or innovative tech projects**, feel free to reach out! 🚀  
 <p align="center">
   <a href="mailto:akshayredekar04@gmail.com">
-    <img src="https://img.shields.io/badge/-akshayredekar04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/akshayredekar04@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/akshayredekar07/">
-    <img src="https://img.shields.io/badge/-akshayredekar07-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/akshayredekar07-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://medium.com/@akshayredekar74">
-    <img src="https://img.shields.io/badge/-@akshayredekar74-03a57a?style=flat-square&labelColor=000000&logo=Medium" alt="Medium Badge"/>
+    <img src="https://img.shields.io/badge/-akshayredekar74-03a57a?style=flat-square&labelColor=000000&logo=medium" alt="Medium Badge"/>
   </a>
   <a href="https://twitter.com/akshayredekar07">
-    <img src="https://img.shields.io/badge/-@akshayredekar07-1ca0f1?style=flat-square&labelColor=f5f8fa&logo=x&logoColor=1ca0f1" alt="X Badge"/>
+    <img src="https://img.shields.io/badge/akshayredekar07-000000?style=flat-square&logo=x&logoColor=white" alt="X Badge"/>
+  </a>
+    <a href="https://akshayredekar-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/portfolio-ff69b4?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>
 
----
+### 🤖 Tech Stack 
 
-### 💫 About Me: 
-- Data Scientist: Developing AI-driven solutions to tackle real-world problems and create scalable models.
-- Current Focus: Working on a Multimodal Deepfake Detection project, combining AI and computer vision to identify fake content across images, videos, and audio.
-- As a Computer Engineering student,I’m passionate about continuous learning and self-improvement!
-
-
-### 🔧 Technologies & Tools
-
-<p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
-  </a>
-  <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="30" height="30"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="30" height="30"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="30" height="30"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="30" height="30"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30" height="30"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
-  </a>
-</p>
-
----
-
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/-Seaborn-3F7F93?style=flat-square&logo=python&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+</div>
 
 ###  **GitHub Stats**
 
 <div align="center">
-<a href="https://github-stats-alpha.vercel.app/api?username=akshayredekar07&cc=000&tc=fff&ic=fff&bc=000">
-  <img src="https://github-stats-alpha.vercel.app/api?username=akshayredekar07&cc=000&tc=fff&ic=fff&bc=000" alt="Akshay's GitHub Stats">
+<a href="https://github-stats-alpha.vercel.app/api?username=akshayredekar07&cc=000&tc=6A5ACD&ic=FF1493&bc=000">
+  <img src="https://github-stats-alpha.vercel.app/api?username=akshayredekar07&cc=000&tc=6A5ACD&ic=FF1493&bc=000" alt="Akshay's GitHub Stats">
 </a>
 </div>
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=akshayredekar07&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=akshayredekar07&theme=dark&hide_border=true&fire=FF1493&ring=6A5ACD&currStreakLabel=FF69B4" alt="GitHub Streak">
+  </a>
 
 </div>
-
-
----
-
-**🕸️ Let's connect and collaborate on exciting projects! 🚀💡**
-
-
