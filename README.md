@@ -16,7 +16,8 @@ Currently, I am working on **multi-modal deepfake detection**, leveraging **comp
 Continuously exploring **advanced deep learning architectures, cloud computing (GCP), and AI-driven automation** to push the boundaries of what's possible.  
 
 ### 💬 Let’s Connect:  
-If you're interested in **AI research, security applications, or innovative tech projects**, feel free to reach out! 🚀  
+Feel free to reach out! 🚀  
+
 <p align="center">
   <a href="mailto:akshayredekar04@gmail.com">
     <img src="https://img.shields.io/badge/akshayredekar04@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge"/>
@@ -30,10 +31,15 @@ If you're interested in **AI research, security applications, or innovative tech
   <a href="https://twitter.com/akshayredekar07">
     <img src="https://img.shields.io/badge/akshayredekar07-000000?style=flat-square&logo=x&logoColor=white" alt="X Badge"/>
   </a>
-    <a href="https://akshayredekar-portfolio.netlify.app/">
+  <a href="https://akshayredekar-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/portfolio-ff69b4?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio Badge"/>
   </a>
+  <a href="https://drive.google.com/file/d/138kqy7x-MU0QSWE2VrTdAwTHSF6tZpwz/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-FFD700?style=flat-square&logo=googledrive&logoColor=white" alt="Resume Badge"/>
+  </a>
 </p>
+
+
 
 ### 🤖 Tech Stack 
 
