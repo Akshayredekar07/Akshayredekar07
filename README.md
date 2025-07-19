@@ -10,7 +10,8 @@ Hi there! 👋 I’m **Akshay Redekar**, a **Machine Learning Engineer and AI Re
 - **Cloud Infrastructure**: Building scalable applications while optimizing resource utilization.  
 
 ### 🎯 Current Focus:  
-Currently, I am working on **multi-modal deepfake detection**, leveraging **computer vision, NLP, and audio analysis** to enhance AI-driven security.  
+I am currently building a **large language model (LLM)** from scratch to deeply understand the nuts and bolts of LLMs and push the boundaries of advanced AI capabilities.
+
 
 ### 🌱 Forever Learning:  
 Continuously exploring **advanced deep learning architectures, cloud computing (GCP), and AI-driven automation** to push the boundaries of what's possible.  
@@ -31,12 +32,12 @@ Feel free to reach out! 🚀
   <a href="https://twitter.com/akshayredekar07">
     <img src="https://img.shields.io/badge/akshayredekar07-000000?style=flat-square&logo=x&logoColor=white" alt="X Badge"/>
   </a>
-  <a href="https://akshayredekar-portfolio.netlify.app/">
+  <!-- <a href="https://akshayredekar-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/portfolio-ff69b4?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-  <a href="https://drive.google.com/file/d/138kqy7x-MU0QSWE2VrTdAwTHSF6tZpwz/view?usp=sharing">
+  </a> -->
+  <!-- <a href="https://drive.google.com/file/d/138kqy7x-MU0QSWE2VrTdAwTHSF6tZpwz/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-FFD700?style=flat-square&logo=googledrive&logoColor=white" alt="Resume Badge"/>
-  </a>
+  </a> -->
 </p>
 
 
@@ -79,3 +80,7 @@ Feel free to reach out! 🚀
   </a>
 
 </div>
+
+
+
+
