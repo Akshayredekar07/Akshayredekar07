@@ -51,8 +51,7 @@ Feel free to reach out! 🚀
   <img src="https://img.shields.io/badge/-Gemini-1A73E8?style=flat-square&logo=google&logoColor=white" alt="Gemini"/>
   <img src="https://img.shields.io/badge/-GPT-6A1B9A?style=flat-square&logo=openai&logoColor=white" alt="GPT"/>
   <img src="https://img.shields.io/badge/-Transformers-FFB300?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers"/>
-  <img src="https://img.shields.io/badge/-DeepSeek-111111?style=flat-square&logo=data&logoColor=white" alt="DeepSeek"/>
-  <img src="https://img.shields.io/badge/-Kimi%20K2-5F6368?style=flat-square&logo=google&logoColor=white" alt="Kimi K2"/>
+
 
   <!-- Agentic & Retrieval Tools -->
   <img src="https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
@@ -104,15 +103,18 @@ Feel free to reach out! 🚀
 </div>
 
 
-<!--
-<div align="center">
+
+<!-- <div align="center">
   
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=akshayredekar07&theme=dark&hide_border=true&fire=FF1493&ring=6A5ACD&currStreakLabel=FF69B4" alt="GitHub Streak">
   </a>
 
-</div>
--->
+</div> -->
+
+
+[![github contribution grid snake animation](https://raw.githubusercontent.com/Brainhub24/Brainhub24/main/github-contribution-grid-snake.svg)](https://github.com/Brainhub24)
+
 
 
 
