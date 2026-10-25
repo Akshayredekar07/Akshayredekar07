@@ -1,122 +1,36 @@
-![Banner](banner.svg)
-
-## 🌟 About Me  
-
-Hi there! 👋 I’m **Akshay Redekar**, a **Machine Learning Engineer and AI Researcher** passionate about building intelligent solutions for real-world automation.  
-### 💡 Core Expertise:  
-- **Machine Learning**: Crafting predictive algorithms and utilizing deep learning for innovative automation.  
-- **Data Science**: Interpreting complex datasets to derive meaningful insights.  
-- **Artificial Intelligence**: Designing smart systems to address practical challenges.  
-- **Cloud Infrastructure**: Building scalable applications while optimizing resource utilization.  
-
-### 🎯 Current Focus:  
-I am currently building a **large language model (LLM)** from scratch to deeply understand the nuts and bolts of LLMs and push the boundaries of advanced AI capabilities.
-
-
-### 🌱 Forever Learning:  
-Continuously exploring **advanced deep learning architectures, cloud computing (GCP), and AI-driven automation** to push the boundaries of what's possible.  
-
-### 💬 Let’s Connect:  
-Feel free to reach out! 🚀  
-
-<p align="center">
-  <a href="mailto:akshayredekar04@gmail.com">
-    <img src="https://img.shields.io/badge/akshayredekar04@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/akshayredekar07/">
-    <img src="https://img.shields.io/badge/akshayredekar07-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://medium.com/@akshayredekar74">
-    <img src="https://img.shields.io/badge/-akshayredekar74-03a57a?style=flat-square&labelColor=000000&logo=medium" alt="Medium Badge"/>
-  </a>
-  <a href="https://twitter.com/akshayredekar07">
-    <img src="https://img.shields.io/badge/akshayredekar07-000000?style=flat-square&logo=x&logoColor=white" alt="X Badge"/>
-  </a>
-  <!-- <a href="https://akshayredekar-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/portfolio-ff69b4?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio Badge"/>
-  </a> -->
-  <!-- <a href="https://drive.google.com/file/d/138kqy7x-MU0QSWE2VrTdAwTHSF6tZpwz/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-FFD700?style=flat-square&logo=googledrive&logoColor=white" alt="Resume Badge"/>
-  </a> -->
-</p>
-
-
-
-### 🤖 Tech Stack 
-
-<div align="center">
-
-  <!-- Core Generative AI & Frameworks -->
-  <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/-Gemini-1A73E8?style=flat-square&logo=google&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/-GPT-6A1B9A?style=flat-square&logo=openai&logoColor=white" alt="GPT"/>
-  <img src="https://img.shields.io/badge/-Transformers-FFB300?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers"/>
-
-
-  <!-- Agentic & Retrieval Tools -->
-  <img src="https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/-LlamaIndex-5A2AE0?style=flat-square&logo=llamaindex&logoColor=white" alt="LlamaIndex"/>
-  <img src="https://img.shields.io/badge/-VectorDB-2E8B57?style=flat-square&logo=databricks&logoColor=white" alt="Vector DB"/>
-  <img src="https://img.shields.io/badge/-Agentic%20AI-006064?style=flat-square&logo=robotframework&logoColor=white" alt="Agentic AI"/>
-
-  <!-- NLP & Libraries -->
-  <img src="https://img.shields.io/badge/-HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace"/>
-  <img src="https://img.shields.io/badge/-NLTK-9C27B0?style=flat-square&logo=python&logoColor=white" alt="NLTK"/>
-
-  <!-- ML/DL Frameworks -->
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/-Autoencoders-4B0082?style=flat-square&logo=python&logoColor=white" alt="Autoencoders"/>
-  <img src="https://img.shields.io/badge/-GANs-000000?style=flat-square&logo=python&logoColor=white" alt="GANs"/>
-  <img src="https://img.shields.io/badge/-Stable%20Diffusion-FF0080?style=flat-square&logo=artstation&logoColor=white" alt="Stable Diffusion"/>
-  <img src="https://img.shields.io/badge/-Reinforcement%20Learning-1976D2?style=flat-square&logo=deepmind&logoColor=white" alt="Reinforcement Learning"/>
-
-  <!-- App & API Dev -->
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-
-  <!-- Data & Databases -->
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/-MCP-0091EA?style=flat-square&logo=microsoft&logoColor=white" alt="MCP"/>
-
-  <!-- DevOps & Cloud -->
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
-
-  <!-- Programming & Tools -->
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-
-</div>
-
-
-###  **GitHub Stats**
-
-<div align="center">
-<a href="https://github-stats-alpha.vercel.app/api?username=akshayredekar07&cc=000&tc=6A5ACD&ic=FF1493&bc=000">
-  <img src="https://github-stats-alpha.vercel.app/api?username=akshayredekar07&cc=000&tc=6A5ACD&ic=FF1493&bc=000" alt="Akshay's GitHub Stats">
-</a>
-</div>
-
-
-
-<!-- <div align="center">
-  
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=akshayredekar07&theme=dark&hide_border=true&fire=FF1493&ring=6A5ACD&currStreakLabel=FF69B4" alt="GitHub Streak">
-  </a>
-
-</div> -->
-
-
-[![github contribution grid snake animation](https://raw.githubusercontent.com/Brainhub24/Brainhub24/main/github-contribution-grid-snake.svg)](https://github.com/Brainhub24)
-
-
-
-
-
-
+> # **Akshay Redekar**
+>
+> AI/ML Engineer.
+>
+> Building production agentic systems, RAG pipelines, and evaluation harnesses for agents and LLMs. Also working on LLM post-training (fine-tuning, reinforcement learning) with PyTorch, and inference optimization. Learning Rust for the systems layer. Looking for inference and research engineering roles.
+>
+> **What I work on**
+>
+> * Agentic systems: LangGraph, Pydantic AI, Google ADK, MCP, A2A Protocol
+> * RAG pipelines: embedding models, vector databases, retrieval quality, context engineering
+> * Evaluation: RAGAS, DeepEval, G-Eval and LLM-as-a-Judge harnesses for RAG and agents
+> * Post-training: fine-tuning and reinforcement learning with PyTorch
+> * Inference optimization: serving, KV cache, quantization, speculative decoding
+>
+> **Links**
+>
+> <img src="https://api.iconify.design/feather/code.svg?color=%23659DE1" width="16" height="16" align="top">&nbsp; github: [Akshayredekar07](https://github.com/Akshayredekar07)<br>
+> <img src="https://api.iconify.design/feather/box.svg?color=%23D38A6E" width="16" height="16" align="top">&nbsp; huggingface: [akshayredekar45](https://huggingface.co/akshayredekar45)<br>
+> <img src="https://api.iconify.design/feather/arrow-up-right.svg?color=%23BDD1C8" width="16" height="16" align="top">&nbsp; linkedin: [akshayredekar07](https://www.linkedin.com/in/akshayredekar07/)<br>
+> <img src="https://api.iconify.design/feather/layers.svg?color=%23E9E7DF" width="16" height="16" align="top">&nbsp; kaggle: [akshayredekar](https://www.kaggle.com/akshayredekar)<br>
+> <img src="https://api.iconify.design/feather/arrow-up-right.svg?color=%2369A3EA" width="16" height="16" align="top">&nbsp; x: [akshay_redekar_](https://x.com/akshay_redekar_)<br>
+> <img src="https://api.iconify.design/feather/mail.svg?color=%23D1896D" width="16" height="16" align="top">&nbsp; mail: [akshayredekar04@gmail.com](mailto:akshayredekar04@gmail.com)
+>
+> 
+>
+> **Tech Stack**
+>
+> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=rust&logoColor=191919" alt="Rust"/> <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/> <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/> <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/> <img src="https://img.shields.io/badge/-HuggingFace%20Transformers-FFD21F?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace Transformers"/> <img src="https://img.shields.io/badge/-Fine--Tuning-FFB300?style=flat-square" alt="Fine-Tuning"/> <img src="https://img.shields.io/badge/-Reinforcement%20Learning-1976D2?style=flat-square&logo=deepmind&logoColor=white" alt="Reinforcement Learning"/> <img src="https://img.shields.io/badge/-LangChain-1B6B5E?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/> <img src="https://img.shields.io/badge/-LangGraph-2D9C8A?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/> <img src="https://img.shields.io/badge/-Pydantic%20AI-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic AI"/> <img src="https://img.shields.io/badge/-Google%20ADK-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google ADK"/> <img src="https://img.shields.io/badge/-MCP-0091EA?style=flat-square" alt="MCP"/> <img src="https://img.shields.io/badge/-RAG-2E8B57?style=flat-square" alt="RAG"/> <img src="https://img.shields.io/badge/-Embedding%20Models-00838F?style=flat-square" alt="Embedding Models"/> <img src="https://img.shields.io/badge/-Vector%20Databases-2E8B57?style=flat-square&logo=databricks&logoColor=white" alt="Vector Databases"/> <img src="https://img.shields.io/badge/-RAGAS-7C3AED?style=flat-square" alt="RAGAS"/> <img src="https://img.shields.io/badge/-DeepEval-DB2777?style=flat-square" alt="DeepEval"/> <img src="https://img.shields.io/badge/-G--Eval-64748B?style=flat-square" alt="G-Eval"/> <img src="https://img.shields.io/badge/-LLM--as--a--Judge-0F766E?style=flat-square" alt="LLM-as-a-Judge"/> <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud"/> <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/-GitHub-EDEDED?style=flat-square&logo=github&logoColor=191919" alt="GitHub"/>
+>
+> ### **GitHub Stats**
+>
+> <div align="center">
+> <a href="https://github-stats-alpha.vercel.app/api?username=akshayredekar07&cc=191919&tc=efefef&ic=efefef&bc=191919">
+>  <img src="https://github-stats-alpha.vercel.app/api?username=akshayredekar07&cc=191919&tc=efefef&ic=efefef&bc=191919" alt="Akshay's GitHub Stats">
+> </a>
+> </div>
