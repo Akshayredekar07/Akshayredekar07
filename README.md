@@ -1,7 +1,18 @@
-### **Hey there :wave:**
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Akshay+Redekar)](https://git.io/typing-svg)
+## **Hey there :wave: I'm Akshay Redekar**
 
-AI/ML Engineer. Pune, India.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=20&duration=3000&pause=1000&color=10B981&width=500&height=40&lines=%3E+AI%2FML+Engineer;%3E+Agentic+Systems+Engineer;%3E+LLM+Post-Training+and+RL;%3E+Inference+Optimization)](https://git.io/typing-svg)
+
+<!--
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=20&duration=3000&pause=1000&color=F97316&letterSpacing=1px&width=560&height=40&lines=%3E+AI%2FML+Engineer;%3E+Agentic+Systems+Engineer;%3E+LLM+Post-Training+and+RL;%3E+Inference+Optimization)](https://git.io/typing-svg)
+-->
+
+<!--
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=22&duration=2000&pause=800&color=F43F5E&width=500&height=40&lines=%3E+AI%2FML+Engineer;%3E+Agentic+Systems+Engineer;%3E+LLM+Post-Training+and+RL;%3E+Inference+Optimization)](https://git.io/typing-svg)
+-->
+
+![Profile Views](https://komarev.com/ghpvc/?username=akshayredekar07&color=brightgreen)
+![GitHub followers](https://img.shields.io/github/followers/akshayredekar07?label=Follow&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/akshayredekar07?affiliations=OWNER&style=social)
 
 Building production agentic systems, RAG pipelines, and evaluation harnesses for agents and LLMs. Also working on LLM post-training (fine-tuning, reinforcement learning) with PyTorch, and inference optimization. Learning Rust for the systems layer. Looking for inference and research engineering roles.
 
@@ -13,7 +24,7 @@ Building production agentic systems, RAG pipelines, and evaluation harnesses for
 * Post-training: fine-tuning and reinforcement learning with PyTorch
 * Inference optimization: serving, KV cache, quantization, speculative decoding
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Let's+Connect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=20&duration=3000&pause=1000&color=10B981&width=300&height=40&lines=%3E+Let%27s+Connect)](https://git.io/typing-svg)
 
 <img src="https://api.iconify.design/feather/code.svg?color=%23659DE1" width="16" height="16" align="top">&nbsp; github: [Akshayredekar07](https://github.com/Akshayredekar07)<br>
 <img src="https://api.iconify.design/feather/box.svg?color=%23D38A6E" width="16" height="16" align="top">&nbsp; huggingface: [akshayredekar45](https://huggingface.co/akshayredekar45)<br>
