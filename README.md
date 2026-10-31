@@ -10,7 +10,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=22&duration=2000&pause=800&color=F43F5E&width=500&height=40&lines=%3E+AI%2FML+Engineer;%3E+Agentic+Systems+Engineer;%3E+LLM+Post-Training+and+RL;%3E+Inference+Optimization)](https://git.io/typing-svg)
 -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=akshayredekar07&color=brightgreen)
 ![GitHub followers](https://img.shields.io/github/followers/akshayredekar07?label=Follow&style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/akshayredekar07?affiliations=OWNER&style=social)
 
