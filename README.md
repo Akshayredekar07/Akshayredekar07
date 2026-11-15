@@ -29,7 +29,7 @@ Building production agentic systems, RAG pipelines, and evaluation harnesses for
 <img src="https://api.iconify.design/feather/box.svg?color=%23D38A6E" width="16" height="16" align="top">&nbsp; huggingface: [akshayredekar45](https://huggingface.co/akshayredekar45)<br>
 <img src="https://api.iconify.design/feather/arrow-up-right.svg?color=%23BDD1C8" width="16" height="16" align="top">&nbsp; linkedin: [akshayredekar07](https://www.linkedin.com/in/akshayredekar07/)<br>
 <img src="https://api.iconify.design/feather/layers.svg?color=%23E9E7DF" width="16" height="16" align="top">&nbsp; kaggle: [akshayredekar](https://www.kaggle.com/akshayredekar)<br>
-<img src="https://api.iconify.design/feather/arrow-up-right.svg?color=%2369A3EA" width="16" height="16" align="top">&nbsp; x: [akshay_redekar_](https://x.com/akshay_redekar_)<br>
+<img src="https://api.iconify.design/feather/arrow-up-right.svg?color=%2369A3EA" width="16" height="16" align="top">&nbsp; x: [akshayredekar07](https://x.com/akshay_redekar_)<br>
 <img src="https://api.iconify.design/feather/mail.svg?color=%23D1896D" width="16" height="16" align="top">&nbsp; mail: [akshayredekar04@gmail.com](mailto:akshayredekar04@gmail.com)
 
 
